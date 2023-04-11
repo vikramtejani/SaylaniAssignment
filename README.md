@@ -1,2 +1,0 @@
-# SaylaniAssignment
-Assignment JS
